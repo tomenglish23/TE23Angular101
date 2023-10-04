@@ -1,4 +1,4 @@
-# TE23 Angular 101 - AngularStarter
+# TE23Ang101c - AngularStarter
 
 This project was generated with Angular CLI version 15.0.3. (https://github.com/angular/angular-cli)
 
