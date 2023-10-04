@@ -14,7 +14,7 @@ Generally: `ng generate component|directive|pipe|service|class|guard|interface|e
 `ng build` Builds the project. The build artifacts will store in the `dist/` directory.
 
 ## Tests - Unit Tests
-`ng test`  Executes the unit tests via Karma                (https://karma-runner.github.io).
+`ng test`  Executes the unit tests via [Karma]                (https://karma-runner.github.io).
 
 ## Tests - End-to-End
 `ng e2e`   Executes the end-to-end tests via a platform of your choice. 
